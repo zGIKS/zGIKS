@@ -3,8 +3,8 @@
 - Passionate about **Web Development** and distributed systems.
 - My favorite language for **services** is ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 - Currently learning ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-- At **UPC** I’ve explored languages & frameworks like: ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)![Vue.js](https://img.shields.io/badge/Vue.js-42B883?logo=vue.js&logoColor=white)
-- I use ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white) **BTW**.
+- At **UPC** I’ve learned languages & frameworks like: ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)![Vue.js](https://img.shields.io/badge/Vue.js-42B883?logo=vue.js&logoColor=white)
+- I use ![Arch Linux](https://img.shields.io/badge/Arch%20-1793D1?logo=archlinux&logoColor=white) **BTW**.
 
 ---
 
@@ -16,8 +16,8 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin%20Framework-00ADD8?logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
