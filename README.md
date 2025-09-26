@@ -1,4 +1,43 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/cat-ESP.gif" alt="banner" width="800"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zGIKS&layout=compact&theme=dark)
+# Hi there, I’m **Mateo Alemán**  
+
+- Passionate about **Web Development** and distributed systems.  
+- My favorite language for **services** is ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white).  
+- Currently learning ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)to deepen my systems programming skills.  
+- At **UPC** I’ve explored languages & frameworks like ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)![Vue.js](https://img.shields.io/badge/Vue.js-42B883?logo=vue.js&logoColor=white)
+  ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white) I use **Arch** btw
+
+---
+
+
+
+## Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin%20Framework-00ADD8?logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?logo=apachecassandra&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-FF5C28?logo=bruno&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+
+
+---
+
+
+
+## GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zGIKS&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zGIKS&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=zGIKS&theme=tokyonight)
 
