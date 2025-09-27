@@ -1,16 +1,10 @@
-# Hi there, I’m **Mateo Alemán**  
-
-- Passionate about **Web Development** and distributed systems.
-- My favorite language for **services** is ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-- Currently learning ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-- At **UPC** I’ve learned languages & frameworks like: ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)![Vue.js](https://img.shields.io/badge/Vue.js-42B883?logo=vue.js&logoColor=white)
-- I use ![Arch Linux](https://img.shields.io/badge/Arch%20-1793D1?logo=archlinux&logoColor=white) **BTW**.
-
+<img src="./assets/cat-ESP.gif" alt="banner" width="400"/>
 ---
 
-<p align="center">
-  <img src="./assets/cat-ESP.gif" alt="banner" width="800"/>
-</p>
+Hi I’m giks,
+
+I’m passionate about **Web Development** and **Operating Systems**. My favorite language for building **services** is ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go\&logoColor=white), and I’m currently learning ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust\&logoColor=white). At **UPC**, I’ve gained experience with various languages and frameworks such as ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white), ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk\&logoColor=white), ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet\&logoColor=white), ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular\&logoColor=white), and ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?logo=vue.js\&logoColor=white). I use ![Arch Linux](https://img.shields.io/badge/Arch%20-1793D1?logo=archlinux\&logoColor=white) **BTW**.
+
 
 ## Tech Stack
 
