@@ -1,5 +1,4 @@
 <img src="./assets/cat-ESP.gif" alt="banner" width="400"/>
----
 
 Hi I’m giks,
 
