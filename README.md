@@ -29,5 +29,3 @@ I’m passionate about **Web Development** and **Operating Systems**. My favorit
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zGIKS&layout=compact&theme=tokyonight)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zGIKS&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=zGIKS&theme=tokyonight)
-
