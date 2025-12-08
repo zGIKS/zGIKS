@@ -9,10 +9,10 @@ I'm a 19-year-old developer who uses [Arch Linux](https://archlinux.org/) as my 
 My main interests and skills include:
 
 - DevOps with Unix-like distributions: Debian and Ubuntu for servers, Arch Linux for rolling-release environments
-- Mathematical logic, formal verification, and type theory  
+- CNN, machine learning, and AI for automating processes  
 - Embedded systems development and hardware design  
 - Favorite programming language: Go; interests in low-level programming (C++) and microservices (Java)
 
-I'm currently studying at the Universidad Peruana de Ciencias Aplicadas (UPC), where I have learned web development for landing pages, web applications, services, cybersecurity, and mobile applications. My current focus is learning Rust and deepening my understanding of how hardware works.
+I'm studying at Universidad Peruana de Ciencias Aplicadas (UPC), where I learned web development (landing pages, web apps, services), cybersecurity, and mobile apps. My current focus: learning Rust, understanding hardware, and exploring CNN, ML, and AI for automation.
 
 ![Top Langs](https://github-readme-stats-beta-two-66.vercel.app/api/top-langs?username=zGIKS&theme=transparent&layout=compact)
