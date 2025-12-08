@@ -1,4 +1,4 @@
-<img src="./assets/giks.svg" alt="banner" width="250"/>
+<img src="./assets/giks.svg" alt="banner" width="150"/>
 
 ### Ehilà 👋🏼
 
